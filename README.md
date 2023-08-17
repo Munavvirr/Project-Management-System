@@ -1,5 +1,7 @@
 # Project-Management-System
 
+Note: This web application was developed for a client. I'm sharing this code since this application was taken down.
+
 Project Management System is a comprehensive web application designed to streamline assignment management and collaboration among various user roles. The system caters to four primary user types: Admin, Inspector, Employees, and Customers. The platform facilitates seamless assignment submission, tracking, completion, and interaction between these user categories.
 
 Basic Concept:
