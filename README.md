@@ -5,6 +5,11 @@ Project Management System is a comprehensive web application designed to streaml
 Basic Concept:
 The platform revolves around the core concept of facilitating the assignment lifecycle. Customers upload their assignments, which are then accessible to employees, admins, and inspectors for review and action. Once the assignments are completed, employees upload the solutions, and customers can download the resolved files. Admins and inspectors have additional functionalities to manage projects, customers, and employees effectively.
 
+Application Screenshot:
+
+![image](https://github.com/Munavvirr/Project-Management-System/assets/72682848/afc3f89d-87c6-4932-8a0b-1d6a4fef6e73)
+
+
 Pages and Functionality
 Registration and Login
 1. Registration Page: New users can register by providing essential details, including username, phone number, email address, and password.
