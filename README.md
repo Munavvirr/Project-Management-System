@@ -2,7 +2,7 @@
 
 Project Management System is a comprehensive web application designed to streamline assignment management and collaboration among various user roles. The system caters to four primary user types: Admin, Inspector, Employees, and Customers. The platform facilitates seamless assignment submission, tracking, completion, and interaction between these user categories.
 
-Basic Concept
+Basic Concept:
 The platform revolves around the core concept of facilitating the assignment lifecycle. Customers upload their assignments, which are then accessible to employees, admins, and inspectors for review and action. Once the assignments are completed, employees upload the solutions, and customers can download the resolved files. Admins and inspectors have additional functionalities to manage projects, customers, and employees effectively.
 
 Pages and Functionality
@@ -65,9 +65,10 @@ Future Enhancements
 - Automated assignment notifications and reminders.
 - Integration with third-party tools for seamless workflow.
 
-Technologies Used
+Technologies Used:
 Frontend: HTML, CSS, JavaScript
 Backend: PHP
 Database: SQL (SQLite)
 Data Visualization: Chart.js
+
 Note: This is a summarized overview of the project. Detailed documentation, code, and instructions can be found in the respective project repositories
