@@ -13,7 +13,8 @@ The platform revolves around the core concept of facilitating the assignment lif
 ![image](https://github.com/Munavvirr/Project-Management-System/assets/72682848/afc3f89d-87c6-4932-8a0b-1d6a4fef6e73)
 
 
-Pages and Functionality
+#Pages and Functionality
+
 Registration and Login
 1. Registration Page: New users can register by providing essential details, including username, phone number, email address, and password.
 2. Customer Login: Existing customers can log in to access their accounts.
